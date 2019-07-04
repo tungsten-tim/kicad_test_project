@@ -1,0 +1,3 @@
+[submodule "kicad_devtank_common"]
+	path = kicad_devtank_common
+	url = https://github.com/devtank-ltd/kicad_devtank_common.git
